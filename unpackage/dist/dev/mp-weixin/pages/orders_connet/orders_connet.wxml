@@ -1,0 +1,1 @@
+<view><view class="top">{{'红包序列号'+key+''}}</view><view class="copy">复制</view><view class="enter">兑换入口</view><view>注意事项:<view class="_br"></view>1.切勿告诉他人<view class="_br"></view>2.一定在确定口令可用后再确认收获，以免发生纠纷</view></view>

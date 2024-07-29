@@ -1,0 +1,32 @@
+
+.body.data-v-57280228{
+	width: 100%;
+	background-color: rgb(241, 241, 243);
+}
+.content.data-v-57280228 {
+	width:100%;
+	/* display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center; */
+}
+.logo.data-v-57280228 {
+	height: 200rpx;
+	width: 200rpx;
+	margin-top: 200rpx;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50rpx;
+}
+.text-area.data-v-57280228 {
+	display: flex;
+	justify-content: center;
+}
+.title.data-v-57280228 {
+	font-size: 36rpx;
+	color: #8f8f94;
+}
+.user-info.data-v-57280228{
+	width: 100%;
+}
+

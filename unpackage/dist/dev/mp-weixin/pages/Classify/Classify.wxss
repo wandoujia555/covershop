@@ -1,0 +1,35 @@
+
+.classify.data-v-302061f4{
+		min-height: 100vh;
+		height: 100%;
+		width: 100%;
+		background-color: rgb(243, 245, 246);
+}
+.search-box.data-v-302061f4{
+		background-color: white;
+		height: 2rem;
+		margin: 10px 0;
+}
+.search.data-v-302061f4{
+		text-align: center;
+		background-color: rgb(235, 235, 236);
+}
+.search-text.data-v-302061f4{
+		color: gray;
+/* 		width: 40px; */
+		display: inline-block;
+		margin: auto;
+}
+.bg.data-v-302061f4{
+	margin: auto;
+	width: 100px;
+	height: 50px;
+}
+.bg image.data-v-302061f4{
+	height: 100%;
+	width: 100%;
+}
+.text.data-v-302061f4{
+	color: gray;
+}
+

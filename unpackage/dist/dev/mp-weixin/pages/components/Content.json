@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "red-cover": "/pages/components/RedCover"
+  }
+}

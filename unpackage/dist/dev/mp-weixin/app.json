@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/Customer/Customer",
+    "pages/Orders/Orders",
+    "pages/Classify/Classify",
+    "pages/CoverDetail/CoverDetail",
+    "pages/orders_connet/orders_connet"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#223",
+    "selectedColor": "#525",
+    "borderStyle": "black",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "iconPath": "static/shouye.png",
+        "selectedIconPath": "static/selected-tabbar/shouye.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "iconPath": "static/fenlei.png",
+        "selectedIconPath": "static/selected-tabbar/fenlei.png",
+        "pagePath": "pages/Classify/Classify",
+        "text": "分类"
+      },
+      {
+        "iconPath": "static/wodedingdan.png",
+        "selectedIconPath": "static/selected-tabbar/wodedingdan.png",
+        "pagePath": "pages/Orders/Orders",
+        "text": "订单"
+      },
+      {
+        "iconPath": "static/IMliaotian.png",
+        "selectedIconPath": "static/selected-tabbar/IMliaotian.png",
+        "pagePath": "pages/Customer/Customer",
+        "text": "客服"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

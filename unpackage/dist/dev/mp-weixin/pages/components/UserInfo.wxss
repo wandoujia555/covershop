@@ -1,0 +1,69 @@
+
+.info.data-v-da8a0bae {
+	position: relative;
+	width: 100%;
+	height: 7rem;
+	overflow: hidden;
+	/* background: url("@/static/background-1.jpg"); */
+}
+.info-context.data-v-da8a0bae{
+	position: relative;
+	padding: 0.3rem;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	z-index: 1;
+}
+.info-bgc.data-v-da8a0bae{
+	width: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 0;
+}
+.img_info.data-v-da8a0bae {
+	width: 4rem;
+	height: 4rem;
+}
+.img_info image.data-v-da8a0bae {
+	width: 100%;
+	height: 100%;
+}
+.text-info.data-v-da8a0bae{
+	padding-left: 0.4rem;
+}
+.info-name.data-v-da8a0bae{
+	font-size: 20px;
+	font-weight: 550;
+	color: white;
+	font-family: "微软雅黑";
+}
+.score-info.data-v-da8a0bae{
+	margin: 2px 0;
+	font-size: 12px;
+}
+.tag.data-v-da8a0bae{
+	display: inline-block;
+	color: white;
+	padding: 2px;
+	border-radius: 5px;
+	background-color: rgb(41, 124, 230);
+}
+.stats-info.data-v-da8a0bae{
+	color: gray;
+	font-size: 12px;
+}
+/* 横幅 */
+.streamers.data-v-da8a0bae{
+	position: relative;
+	padding-top: 0.3rem;
+	text-indent: 2em;
+	font-size: 12px;
+	height: 4rem;
+	width: 100%;
+	margin-top: -2.2rem;
+	background-color: white;
+	z-index: 1;
+}
+
